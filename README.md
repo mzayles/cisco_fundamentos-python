@@ -26,9 +26,3 @@ Cada arquivo representa um módulo ou conceito fundamental de Python:
 | `006_TUPLAS.py`         | Tuplas e suas diferenças em relação às listas |
 | `007_DICIONARIOS.py`    | Dicionários e interação por chave/valor |
 | `008_FUNCOES.py`        | Criação e uso de funções em Python |
-
-<hr>
-
-### 🌐 Autor:
-Desenvolvido por **Mariana Alves de Souza** como parte da formação em Python no SENAI.
-
