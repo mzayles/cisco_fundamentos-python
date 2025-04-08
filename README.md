@@ -2,7 +2,7 @@
 
 Este repositório contém meus estudos e exercícios práticos voltados para a certificação **PCEP – Certified Entry-Level Python Programmer**, oferecida pela **Cisco Networking Academy** em parceria com a **Python Institute**.
 
-Curso realizado no **SENAI Ary Torres**, com carga horária de 40 horas, ministrado pelo professor **Bruno Leonardo Silva**.
+Curso realizado no **SENAI Ary Torres**, com carga horária de 30 horas, ministrado pelo professor **Bruno Leonardo Silva**.
 
 <hr>
 
